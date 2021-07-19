@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"TTT"
+	],
+	"key":{
+		"S":{
+			"item":"mcb:spider_iron_ore"
+		},
+		"T":{
+			"item":"minecraft:coal_block"
+		}
+	},
+	"result":{
+		"item": "mcb:spider_iron_ingot",
+		"count": 1
+		}
+}

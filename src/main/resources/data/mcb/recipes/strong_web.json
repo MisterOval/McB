@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"SSS",
+		"CCC"
+	],
+	"key":{
+		"C":{
+			"item": "minecraft:cobweb"
+		},
+		"S":{
+			"item": "minecraft:string"
+		}
+	},
+	"result":{
+		"item": "mcb:strong_web",
+		"count": 1
+		}
+}

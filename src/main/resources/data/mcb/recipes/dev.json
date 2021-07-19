@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		" S ",
+		"   "
+	],
+	"key":{
+		"S":{
+			"item":"mcb:item"
+		}
+	},
+	"result":{
+		"item": "mcb:spider_iron_ore",
+		"count": 64
+		}
+}

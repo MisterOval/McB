@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  S",
+		"SS ",
+		"TS "
+	],
+	"key":{
+		"S":{
+			"item":"mcb:spider_ore_block"
+		},
+		"T":{
+			"item":"minecraft:stick"
+		}
+	},
+	"result":{
+		"item": "mcb:spider_sword",
+		"count": 1
+		}
+}

@@ -1,0 +1,17 @@
+{
+	"item.mcb.spider_sword":"Spider steel Sword",
+	"item.mcb.crafting_arrow":"Crafting Arrow",
+	"item.mcb.item":"Item",
+	"item.mcb.strong_web":"Strong Web",
+	"item.mcb.intense_web":"Intense Web",
+	"item.mcb.spider_iron_ingot":"Spider Iron Ingot",
+	"item.mcb.activated_spider_iron_ingot":"Activated Spider Iron Ingot",
+	
+	"block.mcb.spider_ore_block": "Spider steel Block",
+	"block.mcb.spider_iron_ore":"Spider Iron Ore",
+	"block.mcb.activated_spider_iron_ore":"Activated Spider Iron Ore",
+	"block.mcb.quarry":"Quarry",
+	
+	"itemGroup.minecraft_but": "Spider Mod",
+	"itemGroup.iem": "Industrial Expansion Mod"
+}

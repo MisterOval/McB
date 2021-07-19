@@ -1,0 +1,33 @@
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="mcb"
+version="1.0"
+displayName="Minecraft but"
+logoFile="examplemod.png"
+credits="imagine making a mod"
+authors="Zack Reavis"
+description='''
+minecraft but somthing different happens idk
+
+an addition to crazy craft
+
+updates listed here:
+spider mod 1.0.0
+Industrial Expansion Mod 0.1.1
+
+'''
+[[dependencies.mcb]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mcb]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

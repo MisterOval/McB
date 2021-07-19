@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CSC",
+		"CCC"
+	],
+	"key":{
+		"C":{
+			"item": "mcb:activated_spider_iron_ingot"
+		},
+		"S":{
+			"item": "mcb:intense_web"
+		}
+	},
+	"result":{
+		"item": "mcb:spider_ore_block",
+		"count": 1
+		}
+}

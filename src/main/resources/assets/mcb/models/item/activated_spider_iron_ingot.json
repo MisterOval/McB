@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures":{
+		"layer0": "mcb:items/activated_spider_iron_ingot"
+	} 
+}

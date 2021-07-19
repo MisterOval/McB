@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SIS",
+		"WDW",
+		"SIS"
+	],
+	"key":{
+		"S":{
+			"item": "mcb:spider_iron_ore"
+		},
+		"I":{
+			"item": "mcb:spider_iron_ingot"
+		},
+		"W":{
+			"item": "mcb:strong_web"
+		},
+		"D":{
+			"item": "minecraft:diamond"
+		}
+	},
+	"result":{
+		"item": "mcb:activated_spider_iron_ore",
+		"count": 4
+		}
+}
